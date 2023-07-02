@@ -1,0 +1,13 @@
+form {
+    padding: 20px;
+}
+
+body {
+    text-align: left;
+    display: block;
+    width: 100%;
+}
+
+label {
+    padding-top: 10px;
+}
